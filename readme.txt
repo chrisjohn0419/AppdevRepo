@@ -1,8 +1,8 @@
 ****************************************************************************
         Tibudan, Chelsea Shaira E. | Los Baños, John Christian H.
-                                                     IT3R1 
-                                      Integrative Programming
-                                       May 28, 2023 - Sunday
+                                 IT3R1 
+                        Integrative Programming
+                           May 28, 2023 - Sunday
 ****************************************************************************
 
 > XAMPP
@@ -26,7 +26,7 @@
 
 
 ****************************************************************************
-                                        Default Login Details
+                          Default Login Details
 ****************************************************************************
 
 Create your own User 
