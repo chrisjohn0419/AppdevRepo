@@ -34,7 +34,7 @@
 										while($row=$pos->fetch_assoc()):
 											$p_arr[$row['id']] = $row['name'];
 										 endwhile;
-									$employee_qry=$conn->query("SELECT * FROM employee`") or die(mysqli_error());
+									$employee_qry=$conn->query("SELECT * FROM employee") or die(mysqli_error());
 									while($row=$employee_qry->fetch_array()){
 								?>
 								<tr>

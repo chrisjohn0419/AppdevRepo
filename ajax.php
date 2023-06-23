@@ -20,7 +20,7 @@ if($action == 'logout'){
 		echo $logout;
 }
 if($action == 'logout2'){
-	$logout = $crud->logout2();
+	$logout2 = $crud->logout2();
 	if($logout)
 		echo $logout;
 }
